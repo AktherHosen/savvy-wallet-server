@@ -1,4 +1,4 @@
-# MoneyFlow Backend API
+# Savvy Wallet Backend API
 
 Express.js + MongoDB + TypeScript backend for the MoneyFlow personal finance application.
 
